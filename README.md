@@ -5,7 +5,7 @@
 #### 🌱 Full stack developer em formação, no momento aprendendo C#;
 #### 🌱 Em busca de oportunidades de aprendizagem e crescimento na área.
 
-###### Morando em: Novo Hamburgo/RS 🇧🇷
+###### Morando em: Porto Alegre/RS 🇧🇷
 
 
 
